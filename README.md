@@ -52,11 +52,6 @@ results of evals I ran, with the method.
 [blockchain-recall-evoting](https://github.com/sahil-ambekarr/blockchain-recall-evoting) ·
 [java-dsa-practice](https://github.com/sahil-ambekarr/java-dsa-practice)
 
-## GitHub stats
-
-![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahil-ambekarr&show_icons=true&hide_border=true&theme=transparent)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahil-ambekarr&layout=compact&hide_border=true&theme=transparent)
-
 ## Contact
 
 - Portfolio: [sahil-ambekarr.github.io/portfolio-website](https://sahil-ambekarr.github.io/portfolio-website/)
